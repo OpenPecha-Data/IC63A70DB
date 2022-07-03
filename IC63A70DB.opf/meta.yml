@@ -5,7 +5,16 @@ initial_creation_type: input
 imported: '2022-06-29T10:11:20.623541'
 last_modified: '2022-06-29T10:11:20.623554'
 parser: null
-source_metadata: {}
+source_metadata:
+  creation_method: proof_reading
+  source : 
+    base_file:
+      id: D3874/འགྲེལ་བ།.txt
+      initial_creation_type: input
+  base:
+    BA0D:
+      title: chonjuk commentary
+      base_file: BA0D.txt
 statistics: {}
 quality: {}
 copyright:
