@@ -7,10 +7,6 @@ last_modified: '2022-06-29T10:11:20.623554'
 parser: null
 source_metadata:
   creation_method: proof_reading
-  source : 
-    base_file:
-      id: D3874/འགྲེལ་བ།.txt
-      initial_creation_type: input
   base:
     00A0:
       title: chonjuk commentary
